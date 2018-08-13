@@ -2,3 +2,8 @@
 ```excel
 Shift + End > Right Arrow
 ```
+
+### Shift the cursor/cell-pointer to the first column header from anywhere ###
+```excel
+Home
+```
